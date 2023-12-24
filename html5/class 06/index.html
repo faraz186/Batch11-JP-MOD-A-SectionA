@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Form</title>
+  </head>
+  <body>
+    <fieldset>
+      <legend>Student Information</legend>
+      <form action="">
+        <p>
+          <input value="John" type="text" placeholder="Enter first name" />
+          <input value="Doe" type="text" placeholder="Enter last name" />
+        </p>
+        <p>
+          Email
+          <input type="email" />
+        </p>
+        <p>
+          Password
+          <input type="password" />
+        </p>
+        <p>
+          comments:
+          <br />
+          <textarea name="comments" cols="30" rows="2"></textarea>
+        </p>
+
+        <p>
+          select your gender
+
+          <br />
+          <br />
+
+          <input name="gender" type="radio" />Male
+
+          <br />
+
+          <input name="gender" type="radio" />Female
+
+          <br />
+
+          <input name="gender" type="radio" />Others
+        </p>
+
+        <p>
+          select your courses
+
+          <br />
+          <br />
+
+          <input name="courses" type="checkbox" />HTML
+
+          <br />
+
+          <input name="courses" type="checkbox" />CSS
+
+          <br />
+
+          <input name="courses" type="checkbox" />JS
+        </p>
+
+        <p>
+          select your courses
+          <select>
+            <option disabled selected>Choose an option</option>
+            <option>Web and mobile</option>
+            <option>Graphic designing</option>
+            <option>Video Editing</option>
+          </select>
+        </p>
+
+        <input readonly value="faraz" type="text" />
+
+        <input type="file" />
+
+        <input type="submit" />
+
+        <button>submit</button>
+
+        <input type="submit" />
+
+        <input type="text" />
+
+        <input
+          width="150"
+          type="image"
+          src="https://t4.ftcdn.net/jpg/00/30/48/41/360_F_30484147_asJ3pbDxsGiLobaGJzZjyepJjtIBGMZg.jpg"
+        />
+
+        <p>
+          <label for="firstname">first name</label>
+          <input id="firstname" type="text" />
+        </p>
+
+        <br />
+        <br />
+
+        <p>
+          <label for="lastname">last name</label>
+
+          <input id="lastname" type="text" />
+        </p>
+
+        <label for="">Full Name</label>
+        <input required type="text" />
+
+        <br />
+        <br />
+
+        <label for="">Email</label>
+        <input required type="email" />
+
+        <br />
+        <br />
+
+        <label for="">Password</label>
+        <input required type="password" />
+
+        <br />
+        <br />
+
+        <input type="hidden" />
+
+        <br />
+        <br />
+
+        <button>submit</button>
+      </form>
+    </fieldset>
+  </body>
+</html>
