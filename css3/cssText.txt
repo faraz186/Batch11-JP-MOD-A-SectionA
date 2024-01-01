@@ -1,0 +1,1 @@
+In this folder we discuss briefly about the css properities, animations, flexbox and media Queries..
