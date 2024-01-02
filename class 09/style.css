@@ -1,0 +1,50 @@
+
+
+/* h1{
+    color: red;
+}
+
+#heading{
+    color: blue;
+}
+
+.head{
+    color: green !important;
+} */
+
+/* <!-- --> // html comment format */
+
+            /* hexa VALUES */
+
+/* p{
+    color: white;
+    background-color: rgba(255, 99, 71, 0.25);
+} */
+
+
+
+/* Chapter no 12 (Text) */
+
+
+/* #heading{
+    font-family: 'Kanit', sans-serif;
+font-family: 'Merriweather', serif;
+    text-transform: capitalize;
+
+} */
+
+/* p{ */
+    /* font-size: 200%;
+    font-weight:600; */
+
+    
+/* } */
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+h3{
+    text-decoration:overline;
+}
