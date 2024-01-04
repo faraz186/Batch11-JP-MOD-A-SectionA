@@ -1,0 +1,103 @@
+/* h1 {
+  color: red;
+}
+
+p {
+  color: blue;
+} */
+
+/* .container {
+  color: green;
+  background-color: orange;
+}
+
+span {
+  color: blue;
+}
+
+.heading {
+  background-color: lightcoral;
+} */
+
+/* * {
+  color: gold;
+  background-color: blueviolet;
+} */
+
+/* body {
+  background-color: blueviolet;
+} */
+
+/* h1,
+h2,
+h3,
+p {
+  color: green;
+} */
+
+/* ul > li {
+  color: blue;
+} */
+
+/* h1 ~ p {
+  color: red;
+} */
+
+/* #para0 {
+  color: blue;
+  background-color: orangered;
+} */
+
+/* .para {
+  color: #41a40e;
+}
+
+.para1 {
+  color: red;
+} */
+
+/* p {
+  background: rgb(131, 58, 180);
+  background: linear-gradient(
+    90deg,
+    rgba(131, 58, 180, 1) 0%,
+    rgba(253, 29, 29, 1) 50%,
+    rgba(252, 176, 69, 1) 100%
+  );
+} */
+
+/* h1 {
+  color: rgba(191, 72, 72, 0.4);
+} */
+
+/* h1 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+} */
+
+/* @font-face {
+  font-family: faraz;
+  src: url("fonts/Poppins-ExtraLightItalic.ttf");
+} */
+
+/* @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap"); */
+p {
+  font-size: 25px;
+  font-weight: lighter;
+  font-style: oblique;
+  /* font-family: "Poppins", sans-serif; */
+}
+
+/* h1 {
+  text-transform: lowercase;
+} */
+
+/* h1 {
+  text-decoration: line-through;
+}
+a {
+  text-decoration: none;
+} */
+
+p span {
+  text-decoration: underline;
+}
