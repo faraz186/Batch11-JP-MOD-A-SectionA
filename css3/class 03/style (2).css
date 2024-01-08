@@ -35,15 +35,15 @@ p:first-line {
   background-color: lightsalmon;
 }
 
-/* li:nth-child(2n) {
+li:nth-child(2n) {
   color: red;
 }
 
 li:nth-child(2n + 1) {
   color: green;
-} */
+}
 
-/* a:link {
+a:link {
   color: maroon;
 }
 
@@ -66,19 +66,19 @@ button:active {
 
 button:hover {
   color: white;
-} */
+}
 
-/* a {
+a {
   text-decoration: none;
 }
 
 a:hover {
   text-decoration: underline;
-} */
+}
 
-/* img {
+img {
   width: 100%;
-} */
+}
 
 /* .main {
   border: 2px solid red;
