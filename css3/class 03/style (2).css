@@ -18,13 +18,13 @@ a {
   text-decoration: none;
 }
 
-/* p { */
-/* line-height: 3em; */
-/* text-align: justify;
-  text-indent: 60px; */
-/* letter-spacing: 10px; */
-/* word-spacing: 10px; */
-/* } */
+p {
+  line-height: 3em;
+  text-align: justify;
+  text-indent: 60px;
+  letter-spacing: 10px;
+  word-spacing: 10px;
+}
 
 /* h1 {
   text-shadow: 12px 12px 4px orange;
