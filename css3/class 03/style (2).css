@@ -1,0 +1,129 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:ital@1&display=swap"); */
+/* @font-face {
+  font-family: Salsa;
+  src: url("fonts/Salsa-Regular.ttf");
+} */
+
+/* div {
+  font-family: Salsa;
+  font-family: "Roboto Mono", monospace;
+} */
+
+/* .heading {
+  text-decoration: line-through;
+}
+
+a {
+  text-decoration: none;
+} */
+
+/* p { */
+/* line-height: 3em; */
+/* text-align: justify;
+  text-indent: 60px; */
+/* letter-spacing: 10px; */
+/* word-spacing: 10px; */
+/* } */
+
+/* h1 {
+  text-shadow: 12px 12px 4px orange;
+}
+
+p:first-line {
+  /* font-size: 50px; */
+/* background-color: lightsalmon; */
+/* } */
+
+/* li:nth-child(2n) {
+  color: red;
+}
+
+li:nth-child(2n + 1) {
+  color: green;
+} */
+
+/* a:link {
+  color: maroon;
+}
+
+a:visited {
+  color: rgb(165, 165, 255);
+}
+
+a:hover {
+  color: red;
+  font-size: 40px;
+}
+
+input:focus {
+  background-color: orangered;
+}
+
+button:active {
+  background-color: blueviolet;
+}
+
+button:hover {
+  color: white;
+} */
+
+/* a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+} */
+
+/* img {
+  width: 100%;
+} */
+
+/* .main {
+  border: 2px solid red;
+  min-width: 250px;
+  max-width: 750px;
+  height: 300px;
+} */
+
+/* .main {
+  border: 2px solid red;
+  width: 400px;
+  min-height: 300px;
+  max-height: 500px;
+  overflow: hidden;
+  resize: both;
+} */
+
+/* .main {
+  border: 2px solid red;
+  width: 400px;
+  min-height: 300px;
+} */
+
+/* p {
+  border: 2px solid blue;
+} */
+
+/* .box { */
+/* border: 2px solid red; */
+/* width: 200px; */
+/* text-align: center; */
+/* margin: auto; */
+/* padding-top: 30px;
+  padding-bottom: 40px;
+  padding-left: 10px;
+  padding-right: 50px; */
+/* padding: 10px 80px; */
+/* margin: 20px 10px 30px 50px; */
+/* } */
+
+/* div {
+  border: 2px solid red;
+  column-count: 4;
+  column-gap: 50px;
+} */
+
+/* p {
+  border: 2px solid blue;
+} */
