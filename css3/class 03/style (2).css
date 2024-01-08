@@ -26,14 +26,14 @@ p {
   word-spacing: 10px;
 }
 
-/* h1 {
+h1 {
   text-shadow: 12px 12px 4px orange;
 }
 
 p:first-line {
-  /* font-size: 50px; */
-/* background-color: lightsalmon; */
-/* } */
+  font-size: 50px;
+  background-color: lightsalmon;
+}
 
 /* li:nth-child(2n) {
   color: red;
