@@ -1,0 +1,108 @@
+/* * {
+  margin: 0;
+  padding: 0;
+} */
+
+/* img {
+  width: 100%;
+}
+
+.box {
+  border: 2px solid blue;
+  min-width: 300px;
+  max-width: 800px;
+  width: 500px;
+} */
+
+/* p{
+    font-family: ;
+} */
+
+/* body {
+  background-color: aquamarine;
+} */
+/* div {
+  border: 6px outset red;
+  border-width: 6px;
+  border-style: outset;
+  border-color: red;
+
+  margin-top: 50px;
+} */
+
+/* div {
+  border: 2px solid red;
+  width: 300px;
+  margin: auto;
+  text-align: center;
+} */
+/* 
+li {
+  display: inline-block;
+  background-color: orangered;
+  color: black;
+  margin: 10px;
+  width: 100px;
+  padding: 8px;
+}
+
+a {
+  display: block;
+  text-align: center;
+  background-color: red;
+  color: white;
+} */
+
+/* ul {
+  background-color: black;
+  color: white;
+  padding: 20px;
+  box-shadow: 0 0 20px black;
+}
+
+li {
+  display: inline;
+  padding: 10px;
+}
+
+.heading {
+  margin-right: 500px;
+} */
+
+/* li {
+  display: inline;
+  background-color: red;
+  color: white;
+  padding: 10px;
+  margin: 5px;
+}
+
+.hide {
+  visibility: hidden;
+} */
+
+/* p {
+  color: red;
+  text-shadow: 0 0 5px black;
+}
+
+div {
+  border: 2px solid orange;
+  box-shadow: 2px 5px 15px orangered;
+  width: 300px;
+  margin: auto;
+  font-size: 14px;
+  padding: 10px;
+  margin-top: 70px;
+  border-top-right-radius: 15px;
+} */
+
+.orlist {
+  /* list-style-image: url("./images/8725545_arrow_right_icon\ \(1\).png"); */
+  border: 3px solid orangered;
+}
+
+li {
+  border: 2px solid black;
+  list-style-position: inside;
+}
