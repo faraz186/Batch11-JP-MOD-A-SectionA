@@ -18,14 +18,14 @@ li {
   border: 2px solid black;
 }
 
-/* .table {
+.table {
   min-width: 400px;
   border: none;
   box-shadow: 2px 2px 12px grey;
   border-collapse: collapse;
   border-bottom: 2px solid aquamarine;
   border-radius: 15px;
-} */
+}
 
 /* .table thead {
   background-color: aquamarine;
