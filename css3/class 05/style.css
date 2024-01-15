@@ -39,13 +39,13 @@ th {
   border-bottom: 1px solid grey;
 }
 
-/* .table tbody tr:nth-child(2n) {
+.table tbody tr:nth-child(2n) {
   background-color: rgb(195, 195, 195);
-} */
+}
 
-/* .table tbody tr:last-child {
+.table tbody tr:last-child {
   border-bottom: 3px solid cyan;
-} */
+}
 
 /* .table tbody tr:hover {
   background-color: rgb(201, 197, 197);
