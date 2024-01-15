@@ -27,17 +27,17 @@ li {
   border-radius: 15px;
 }
 
-/* .table thead {
+.table thead {
   background-color: aquamarine;
-} */
+}
 
-/* .table td,
+.table td,
 th {
   padding: 5px;
   border: 1px solid black;
   text-align: center;
   border-bottom: 1px solid grey;
-} */
+}
 
 /* .table tbody tr:nth-child(2n) {
   background-color: rgb(195, 195, 195);
