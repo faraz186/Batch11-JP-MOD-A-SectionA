@@ -10,7 +10,7 @@ h1 {
 ol {
   list-style-type: lower-roman;
   border: 2px solid red;
-  list-style-position: inside;
+  list-style-position: inside;   
   list-style-image: url("./4829869_arrow_next_right_icon.png");
 }
 
