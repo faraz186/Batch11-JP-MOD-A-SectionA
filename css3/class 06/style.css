@@ -11,7 +11,7 @@ body {
   background-color: blueviolet;
 }
 
-/* .A {
+.A {
   float: inline-start;
   background-color: aqua;
   width: 300px;
@@ -29,7 +29,7 @@ img {
   position: fixed;
   top: 50%;
   z-index: 1;
-} */
+}
 
 /* p {
   clear: both;
