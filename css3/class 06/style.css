@@ -14,7 +14,7 @@ body {
 .A {
   float: inline-start;
   background-color: aqua;
-  width: 300px;
+  width: 300px;    
   height: 150px;
 }
 
