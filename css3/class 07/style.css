@@ -39,7 +39,7 @@
     text-align: center;
     font-size: 70px;
     font-weight: 900;
-    /* align-self: flex-end; */
+    align-self: flex-end;
 }
 
 .item3{
