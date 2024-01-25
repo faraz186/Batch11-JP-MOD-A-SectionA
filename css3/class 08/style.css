@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: cyan;
+}
+
+/* .box{
+    width: 60%;
+    text-align: left;
+    padding: 20px;
+    border: 1px solid red;
+} */
+
+
+                    /* Deskhtop Screen */
+
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    /* row-gap: 20px;
+    column-gap:15px; */
+    gap: 20px 15px;
+    width: 1300px;
+    background-color: lightcoral;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid red;
+}
+img{
+    width: 100%;
+}
+.box1{
+    width: 300px;
+    padding: 10px;
+    border: 5px solid red;
+}
+
+.box2{
+    width: 300px;
+    padding: 10px;
+    border: 5px solid red;
+}
+.box3{
+    width: 300px;
+    padding: 10px;
+    border: 5px solid red;
+}
+.box4{
+    width: 300px;
+    padding: 10px;
+    border: 5px solid red;
+}
+
+@media only screen and (max-width:500px)
+{
+    
+    .box{
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .box1{
+        width: 400px;
+        border: 5px solid blue;
+        padding: 5px;
+    }
+    .box2{
+        width: 400px;
+        border: 5px solid blue;
+        padding: 5px;
+    }
+    .box3{
+        width: 400px;
+        border: 5px solid blue;
+        padding: 5px;
+    }
+    .box4{
+        width: 400px;
+        border: 5px solid blue;
+        padding: 5px;
+    }
+}
