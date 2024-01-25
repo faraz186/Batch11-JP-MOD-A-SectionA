@@ -10,7 +10,7 @@ body{
 
 .box{
     width: 60%;   
-    text-align: left;
+    text-align: left;   
     padding: 20px;
     border: 1px solid red;
 }
