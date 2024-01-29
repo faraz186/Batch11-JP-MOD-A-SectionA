@@ -1,19 +1,19 @@
-*{   
+*{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;   
+    box-sizing: border-box;
 }
 
-body{  
+body{
     background-color: cyan;
 }
 
-.box{
-    width: 60%;   
-    text-align: left;   
+/* .box{
+    width: 60%;
+    text-align: left;
     padding: 20px;
     border: 1px solid red;
-}
+} */
 
 
                     /* Deskhtop Screen */
