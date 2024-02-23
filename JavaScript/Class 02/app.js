@@ -5,7 +5,7 @@ var number;
 console.log(number);
 
 // variable declare and initialize
-
+  
 var number = 10;
 
 var number = 10;
