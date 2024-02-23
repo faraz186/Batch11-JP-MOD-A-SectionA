@@ -14,11 +14,11 @@ var number2 = "20";
 
 console.log(number + number2);
 
-// document.write("<select><option>Faraz</option><option>abc</option></select>");
+document.write("<select><option>Faraz</option><option>abc</option></select>");
 
-// var firstName = "abc";
+var firstName = "abc";
 
-// var number = 10;
+var number = 10;
 
 // var number2 = 20;
 
