@@ -38,25 +38,25 @@ var number = 50;
 
 number = number++;
 
-// console.log(number);
+console.log(number);
 
 // post increment
 
-// var number = 10;
+var number = 10;
 
-// var inc = ++number;
+var inc = ++number;
 
-// console.log(inc);
+console.log(inc);
 
 // pre increment
 
-// var number = 5;
+var number = 5;
 
-// var cal = --number + ++number - number++ + number + ++number + ++number + --number - number - ++number - ++number;
+var cal = --number + ++number - number++ + number + ++number + ++number + --number - number - ++number - ++number;
 
 // 4 + 5 - 5 + 6
 
-// console.log(cal);
+console.log(cal);
 
 // var firstName = "Mr";
 
