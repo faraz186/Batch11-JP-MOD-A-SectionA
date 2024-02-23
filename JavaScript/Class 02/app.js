@@ -70,24 +70,24 @@ console.log("Hello Mr john!!. hope you are fine...");
 
 var firstName = "Mr",lastName = "Johnson",qualification = "BSCS",section = "A",RollNo = 13213;
 
-// document.write(
-//   "Hello " +
-//     firstName +
-//     " " +
-//     lastName +
-//     "My section is: " +
-//     section +
-//     ". My roll no is: " +
-//     RollNo +
-//     ". mY qaulification is: " +
-//     qualification
-// );
+document.write(
+  "Hello " +
+    firstName +
+    " " +
+    lastName +
+    "My section is: " +
+    section +
+    ". My roll no is: " +
+    RollNo +
+    ". mY qaulification is: " +
+    qualification
+);
 
-// var number = 5;
+var number = 5;
 
-// document.write(
-//   number + "x 1 = " + "<b>"+number * 1+"</b>" + "<br>" + number + "x 2 = " + number * 2 + "<br>"
-// );
+document.write(
+  number + "x 1 = " + "<b>"+number * 1+"</b>" + "<br>" + number + "x 2 = " + number * 2 + "<br>"
+);
 
 // document.write("5 x 1 = 5");
 
