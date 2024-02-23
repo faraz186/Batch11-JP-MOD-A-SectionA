@@ -68,15 +68,7 @@ console.log("Hello " + firstName + " " + lastName + "!!. hope you are " + fine);
 
 console.log("Hello Mr john!!. hope you are fine...");
 
-var firstName = "Mr";
-
-var lastName = "Johnson";
-
-var qualification = "BSCS";
-
-var section = "A";
-
-var RollNo = 13213;
+var firstName = "Mr",lastName = "Johnson",qualification = "BSCS",section = "A",RollNo = 13213;
 
 // document.write(
 //   "Hello " +
