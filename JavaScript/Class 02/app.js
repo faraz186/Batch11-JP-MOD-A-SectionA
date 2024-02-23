@@ -28,15 +28,15 @@ var res = number + 8 + (10 * 16) / 2;
 
 console.log(res);
 
-// var number;
+var number;
 
-// number = 20;
+number = 20;
 
-// console.log(number);
+console.log(number);
 
-// var number = 50;
+var number = 50;
 
-// number = number++;
+number = number++;
 
 // console.log(number);
 
