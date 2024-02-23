@@ -20,9 +20,9 @@ var firstName = "abc";
 
 var number = 10;
 
-// var number2 = 20;
+var number2 = 20;
 
-// console.log(number + number2);
+console.log(number + number2);
 
 // var res = number + 8 + (10 * 16) / 2;
 
