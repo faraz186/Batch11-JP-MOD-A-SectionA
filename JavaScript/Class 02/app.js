@@ -24,9 +24,9 @@ var number2 = 20;
 
 console.log(number + number2);
 
-// var res = number + 8 + (10 * 16) / 2;
+var res = number + 8 + (10 * 16) / 2;
 
-// console.log(res);
+console.log(res);
 
 // var number;
 
