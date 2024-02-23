@@ -1,18 +1,18 @@
 // variable decalre
 
-// var number = 80;
+var number;
 
-// console.log(number);
+console.log(number);
 
 // variable declare and initialize
 
-// var number = 10;
+var number = 10;
 
-// var number = 10;
+var number = 10;
 
-// var number2 = "20";
+var number2 = "20";
 
-// console.log(number + number2);
+console.log(number + number2);
 
 // document.write("<select><option>Faraz</option><option>abc</option></select>");
 
