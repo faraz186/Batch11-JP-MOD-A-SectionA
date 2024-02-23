@@ -58,25 +58,25 @@ var cal = --number + ++number - number++ + number + ++number + ++number + --numb
 
 console.log(cal);
 
-// var firstName = "Mr";
+var firstName = "Mr";
 
-// var lastName = "John";
+var lastName = "John";
 
-// var fine = "fine";
+var fine = "fine";
 
-// console.log("Hello " + firstName + " " + lastName + "!!. hope you are " + fine);
+console.log("Hello " + firstName + " " + lastName + "!!. hope you are " + fine);
 
-// console.log("Hello Mr john!!. hope you are fine...");
+console.log("Hello Mr john!!. hope you are fine...");
 
-// var firstName = "Mr";
+var firstName = "Mr";
 
-// var lastName = "Johnson";
+var lastName = "Johnson";
 
-// var qualification = "BSCS";
+var qualification = "BSCS";
 
-// var section = "A";
+var section = "A";
 
-// var RollNo = 13213;
+var RollNo = 13213;
 
 // document.write(
 //   "Hello " +
