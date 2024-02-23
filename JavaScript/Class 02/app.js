@@ -99,15 +99,15 @@ document.write(
 
 // document.write("5 x 1 = 5");
 
-// alert("Hello");
+alert("Hello");
 
-// var number1 = prompt("enter first number");
+var number1 = prompt("enter first number");
 
-// var number2 = prompt("enter second number");
+var number2 = prompt("enter second number");
 
-// console.log(number1 + number2);
+console.log(number1 + number2);
 
-// document.write("<h1>" + userInput + "</h1>");
+document.write("<h1>" + userInput + "</h1>");
 
 // +
 // Number()
