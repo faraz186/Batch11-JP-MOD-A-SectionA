@@ -21,14 +21,14 @@ p{
 body {
   background-color: aquamarine;
 }
-/* div {
+div {
   border: 6px outset red;
   border-width: 6px;
   border-style: outset;
   border-color: red;
 
   margin-top: 50px;
-} */
+}
 
 /* div {
   border: 2px solid red;
