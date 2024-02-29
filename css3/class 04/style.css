@@ -81,7 +81,7 @@ li {
   visibility: hidden;
 }
 
-/* p {
+p {
   color: red;
   text-shadow: 0 0 5px black;
 }
@@ -95,7 +95,7 @@ div {
   padding: 10px;
   margin-top: 70px;
   border-top-right-radius: 15px;
-} */
+}
 
 .orlist {
   /* list-style-image: url("./images/8725545_arrow_right_icon\ \(1\).png"); */
