@@ -24,19 +24,19 @@ for (var i = 0; i < arr.length; i++) {
   console.log(arr[i]);
 }
 
-// var userInput = prompt("Where do you live??");
+var userInput = prompt("Where do you live??");
 
-// var cityArr = ["karachi", "lahore", "islamabad", "quetta"];
+var cityArr = ["karachi", "lahore", "islamabad", "quetta"];
 
-// for (var i = 0; i < cityArr.length; i++) {
-//   if (userInput === cityArr[i]) {
-//     console.log("it is one of the cleanest city..");
-//   }
-// }
+for (var i = 0; i < cityArr.length; i++) {
+  if (userInput === cityArr[i]) {
+    console.log("it is one of the cleanest city..");
+  }
+}
 
-// var userInput = prompt("Where do you live??");
+var userInput = prompt("Where do you live??");
 
-// var CapitalUserInput = userInput.toLowerCase();
+var CapitalUserInput = userInput.toLowerCase();
 
 // var faraz = false;
 
