@@ -89,6 +89,8 @@ var copy = arr.slice(1, 5);
 
 console.log(copy);
 
+// array methods
+
 // pop()
 // shift()
 // unshift()
