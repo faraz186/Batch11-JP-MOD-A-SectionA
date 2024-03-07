@@ -8,21 +8,21 @@ for (var i = 1; i < 10; i++) {
   console.log("Hello World");
 }
 
-// var userInput = +prompt("Enter a number to generate a multiplication table");
+var userInput = +prompt("Enter a number to generate a multiplication table");
 
-// var tableRange = +prompt("Enter table range..");
+var tableRange = +prompt("Enter table range..");
 
-// for (var i = 1; i <= tableRange; i++) {
-//   document.write(userInput + "x" + i + "=" + userInput * i + "<br>");
-// }
+for (var i = 1; i <= tableRange; i++) {
+  document.write(userInput + "x" + i + "=" + userInput * i + "<br>");
+}
 
-// var arr = ["karachi", "islamabad", "quetta", "lahore"];
+var arr = ["karachi", "islamabad", "quetta", "lahore"];
 
-// console.log(arr.length);
+console.log(arr.length);
 
-// for (var i = 0; i < arr.length; i++) {
-//   console.log(arr[i]);
-// }
+for (var i = 0; i < arr.length; i++) {
+  console.log(arr[i]);
+}
 
 // var userInput = prompt("Where do you live??");
 
