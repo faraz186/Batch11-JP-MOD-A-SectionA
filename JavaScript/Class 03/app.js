@@ -38,50 +38,48 @@ var userInput = prompt("Where do you live??");
 
 var CapitalUserInput = userInput.toLowerCase();
 
-// var faraz = false;
+var faraz = false;
 
-// var cityArr = ["karachi", "lahore", "islamabad", "quetta"];
+var cityArr = ["karachi", "lahore", "islamabad", "quetta"];
 
-// for (var i = 0; i < cityArr.length; i++) {
-//   if (CapitalUserInput === cityArr[i]) {
-//     faraz = true;
-//   }
-// }
+for (var i = 0; i < cityArr.length; i++) {
+  if (CapitalUserInput === cityArr[i]) {
+    faraz = true;
+  }
+}
 
-// if (faraz) {
-//   console.log("it is one of the cleanest city..");
-// } else {
-//   console.log("not found..");
-// }
+if (faraz) {
+  console.log("it is one of the cleanest city..");
+} else {
+  console.log("not found..");
+}
 
-// var arr = [
-//   ["abc", "xyz"],
-//   [true, 15],
-// ];
+var arr = [
+  ["abc", "xyz"],
+  [true, 15],
+];
 
-// for (var i = 0; i < arr.length; i++) {
-//   for (var j = 0; j < arr[i].length; j++) {
-//     console.log(arr[i][j]);
-//   }
-// }
+for (var i = 0; i < arr.length; i++) {
+  for (var j = 0; j < arr[i].length; j++) {
+    console.log(arr[i][j]);
+  }
+}
 
-// var arr = ["faraz", "hamza", "abc", 12, true];
+var arr = ["faraz", "hamza", "abc", 12, true];
 
-// console.log(arr[2]);
+console.log(arr[2]);
 
-// var str = "Muhammad Faraz";
+var str = "Muhammad Faraz";
 
-// var copy = str.slice(0, 8);
+var copy = str.slice(0, 8);
 
-// console.log(copy);
+console.log(copy);
 
-// push()
+arr.push(false, 50);
 
-// arr.push(false, 50);
+arr.pop();
 
-// arr.pop();
-
-// arr.unshift("faraz", "hamza");
+arr.unshift("faraz", "hamza");
 
 var arr = ["apple", "banana", "orange", "mango", "water mallan"];
 
