@@ -10,7 +10,7 @@ for (var i = 1; i < 10; i++) {
   console.log("Hello World");
 }
 
-var userInput = +prompt("Enter a number to generate a multiplication table");
+var userInput = +prompt("Enter a number to generate a multiplication table");   
 
 var tableRange = +prompt("Enter table range..");
 
