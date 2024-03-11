@@ -13,7 +13,7 @@ for (var i = 1; i < 10; i++) {
 var userInput = +prompt("Enter a number to generate a multiplication table");      
 
 var tableRange = +prompt("Enter table range..");
-
+    
 for (var i = 1; i <= tableRange; i++) {   
   document.write(userInput + "x" + i + "=" + userInput * i + "<br>");        
 }
