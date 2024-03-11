@@ -2,7 +2,7 @@
 
 // basic syntax
     
-// for(initiALIZATION,CONDITION,INCREMENT/DECREMENT){
+// for(initiALIZATION,CONDITION,INCREMENT/DECREMENT){    
 
 // }
 
