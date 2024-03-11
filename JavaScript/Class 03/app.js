@@ -1,7 +1,7 @@
 // For loop basically an iteration
 
 // basic syntax
-
+    
 // for(initiALIZATION,CONDITION,INCREMENT/DECREMENT){
 
 // }
