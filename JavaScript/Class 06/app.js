@@ -22,9 +22,9 @@ var DaysArr = ["sunday", "Monday", "Tuesday", "Wednesday", "thursday", "friday",
 console.log(date.getTime());
 
 
-// var date = new Date();
+var date = new Date();
 
-// console.log(date.setFullYear(2020));
+console.log(date.setFullYear(2020));
 
 
 // Switch Case
