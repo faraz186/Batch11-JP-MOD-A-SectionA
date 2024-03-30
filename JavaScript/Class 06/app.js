@@ -44,25 +44,24 @@ switch (userInput) {
 
 
 
-// for (var i = 0; i < 0; i++) {
-//     console.log(i);
-// }
+for (var i = 0; i < 0; i++) {
+    console.log(i);
+}
 
 
-// var i = 0;
-// while (i < 1) {
-//     console.log(i);
-//     i++
-// }
+var i = 0;
+while (i < 1) {
+    console.log(i);
+    i++
+}
 
 
-// var i = 0;
-
-
-// do {
-//     console.log(i);
-//     i++;
-// } while (i < 0)
+var i = 0;
+        
+do {
+    console.log(i);
+    i++;
+} while (i < 0)
 
 
 
