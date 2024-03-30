@@ -66,8 +66,7 @@ do {
 } while (i < 0)
 
 
-
-
+// FUNCTIONS
 
 function faraz() {  // parameter
 
