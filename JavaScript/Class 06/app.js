@@ -29,23 +29,18 @@ console.log(date.setFullYear(2020));
 
 // Switch Case
 
+var userInput = +prompt("Enter what day is today?");
 
-
-// var userInput = +prompt("Enter what day is today?");
-
-// switch (userInput) {
-//     case 17:
-//         alert("Boring day");
-//         break;
-//     case 18:
-//         alert("Eligible..");
-//         break;
-//     default:
-//         alert("not found..")
+switch (userInput) {
+    case 17:
+        alert("Boring day");
+        break;
+    case 18:
+        alert("Eligible..");
+        break;
+    default:
+        alert("not found..")
 // }
-
-
-
 
 
 
