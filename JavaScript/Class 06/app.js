@@ -17,11 +17,9 @@ console.log("Newyeardate==>", Newyeardate);
 console.log("currentDate==>", currentDate);
 
 
-// var DaysArr = ["sunday", "Monday", "Tuesday", "Wednesday", "thursday", "friday", "Saturday"];
+var DaysArr = ["sunday", "Monday", "Tuesday", "Wednesday", "thursday", "friday", "Saturday"];
 
-// console.log(date.getTime());
-
-
+console.log(date.getTime());
 
 
 // var date = new Date();
