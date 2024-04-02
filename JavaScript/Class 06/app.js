@@ -13,7 +13,7 @@ console.log("days left==>", days);
 // console.log("months left==>", months);  
    
 console.log("Newyeardate==>", Newyeardate);
-
+   
 console.log("currentDate==>", currentDate);       
 
 
