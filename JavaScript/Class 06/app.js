@@ -2,7 +2,7 @@ var Newyeardate = new Date("1 january 2025").getTime();
            
 var currentDate = new Date().getTime();   
    
-var diff = Newyeardate - currentDate;
+var diff = Newyeardate - currentDate;   
 
 var days = diff / (1000 * 60 * 60 * 24);  
 
