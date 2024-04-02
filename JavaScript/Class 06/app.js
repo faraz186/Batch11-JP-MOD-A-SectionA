@@ -10,7 +10,7 @@ var months = diff / (1000 * 60 * 60 * 24 * 30);
       
 console.log("days left==>", days);
        
-// console.log("months left==>", months);  
+// console.log("months left==>", months);     
    
 console.log("Newyeardate==>", Newyeardate);
    
