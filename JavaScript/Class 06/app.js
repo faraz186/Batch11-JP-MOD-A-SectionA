@@ -1,4 +1,4 @@
-var Newyeardate = new Date("1 january 2025").getTime();       
+var Newyeardate = new Date("1 january 2025").getTime();          
                   
 var currentDate = new Date().getTime();   
       
