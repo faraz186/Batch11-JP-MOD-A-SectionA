@@ -14,7 +14,7 @@ console.log("days left==>", days);
    
 console.log("Newyeardate==>", Newyeardate);
 
-console.log("currentDate==>", currentDate);   
+console.log("currentDate==>", currentDate);       
 
 
 var DaysArr = ["sunday", "Monday", "Tuesday", "Wednesday", "thursday", "friday", "Saturday"];
