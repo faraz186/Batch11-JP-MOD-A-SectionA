@@ -4,7 +4,7 @@ var currentDate = new Date().getTime();
    
 var diff = Newyeardate - currentDate;
 
-var days = diff / (1000 * 60 * 60 * 24);
+var days = diff / (1000 * 60 * 60 * 24);  
 
 var months = diff / (1000 * 60 * 60 * 24 * 30);
    
