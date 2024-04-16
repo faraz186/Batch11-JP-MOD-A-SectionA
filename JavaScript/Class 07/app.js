@@ -115,4 +115,3 @@ function foo() {
 
 console.log(a);
 foo()
-
