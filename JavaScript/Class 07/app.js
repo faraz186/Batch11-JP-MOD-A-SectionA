@@ -36,16 +36,15 @@ function biodata(firstName, lastName, age, city) {
 console.log(biodata('Muhammad', "faraz", 20, 'karachi'));
 
 
+function multiplicationTable(number, len) {
+    var res = ""
+    for (var i = 1; i <= len; i++) {
+        res += number + "x" + i + "=" + number * i
+    }
+    return res
+}
 
-// function multiplicationTable(number, len) {
-//     var res = ""
-//     for (var i = 1; i <= len; i++) {
-//         res += number + "x" + i + "=" + number * i
-//     }
-//     return res
-// }
-
-// console.log(multiplicationTable(+prompt('enter a number'), +prompt('enter a length')));
+console.log(multiplicationTable(+prompt('enter a number'), +prompt('enter a length')));
 
 
 
