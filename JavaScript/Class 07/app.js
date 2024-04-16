@@ -1,16 +1,15 @@
 // function
 
+function abc() {
+    console.log("hello function..")
 
-// function abc() {
-//     console.log("hello function..")
+}
 
-// }
-
-// abc() // function calling
-// abc() // function calling
-// abc() // function calling
-// abc() // function calling
-// abc() // function calling
+abc() // function calling
+abc() // function calling
+abc() // function calling
+abc() // function calling
+abc() // function calling
 
 
 // function sum(a, b, c) {
