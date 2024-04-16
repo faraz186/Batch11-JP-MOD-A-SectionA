@@ -76,39 +76,36 @@ console.log(calc(10, "-", 5));
 console.log(calc(12, "$", 3));
 
 
-
-
-
 // Switch statement
 
-// function calc(num1, opr, num2) {
-//     switch (opr) {
+function calc(num1, opr, num2) {
+    switch (opr) {
 
-//         case "+":
-//             return num1 + num2;
-//         case "-":
-//             return num1 - num2;
-//         case "*":
-//             return num1 * num2;
-//         case "/":
-//             return num1 / num2;
-//         case "%":
-//             return num1 % num2;
+        case "+":
+            return num1 + num2;
+        case "-":
+            return num1 - num2;
+        case "*":
+            return num1 * num2;
+        case "/":
+            return num1 / num2;
+        case "%":
+            return num1 % num2;
 
-//         default:
-//             return "invalid operator"
+        default:
+            return "invalid operator"
 
 
-//     }
-// }
+    }
+}
 
-// console.log(calc(2, "+", 6));
+console.log(calc(2, "+", 6));
 
-// console.log(calc(10, "-", 5));
+console.log(calc(10, "-", 5));
 
-// console.log(calc(12, "$", 3));
+console.log(calc(12, "$", 3));
 
-// var a = 20;
+var a = 20;
 
 
 function foo() {
