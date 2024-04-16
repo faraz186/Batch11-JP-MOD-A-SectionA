@@ -17,15 +17,15 @@ function sum(a, b, c) {
     return result
 }
 
-// var res = sum(10, 20, 30);
-// console.log(res);
+var res = sum(10, 20, 30);
+console.log(res);
 
 
-// var arr = [1, 2, 3, 4, 5, 6];
+var arr = [1, 2, 3, 4, 5, 6];
 
-// var res = arr.slice(0, 3)
+var res = arr.slice(0, 3)
 
-// console.log(res);
+console.log(res);
 
 
 // function biodata(firstName, lastName, age, city) {
