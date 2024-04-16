@@ -12,10 +12,10 @@ abc() // function calling
 abc() // function calling
 
 
-// function sum(a, b, c) {
-//     var result = a + b + c;
-//     return result
-// }
+function sum(a, b, c) {
+    var result = a + b + c;
+    return result
+}
 
 // var res = sum(10, 20, 30);
 // console.log(res);
