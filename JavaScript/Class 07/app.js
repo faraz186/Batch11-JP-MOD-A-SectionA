@@ -47,34 +47,33 @@ function multiplicationTable(number, len) {
 console.log(multiplicationTable(+prompt('enter a number'), +prompt('enter a length')));
 
 
+function calc(num1, opr, num2) {
+    if (opr === "+") {
+        return num1 + num2;
+    }
+    else if (opr === "-") {
+        return num1 - num2;
 
-// function calc(num1, opr, num2) {
-//     if (opr === "+") {
-//         return num1 + num2;
-//     }
-//     else if (opr === "-") {
-//         return num1 - num2;
+    }
+    else if (opr === "*") {
+        return num1 * num2;
 
-//     }
-//     else if (opr === "*") {
-//         return num1 * num2;
-
-//     }
-//     else if (opr === "/") {
-//         return num1 / num2;
-//     }
-//     else {
-//         return "invalid operator"
-//     }
+    }
+    else if (opr === "/") {
+        return num1 / num2;
+    }
+    else {
+        return "invalid operator"
+    }
 
 
-// }
+}
 
-// console.log(calc(2, "+", 6));
+console.log(calc(2, "+", 6));
 
-// console.log(calc(10, "-", 5));
+console.log(calc(10, "-", 5));
 
-// console.log(calc(12, "$", 3));
+console.log(calc(12, "$", 3));
 
 
 
