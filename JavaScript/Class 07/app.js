@@ -28,12 +28,12 @@ var res = arr.slice(0, 3)
 console.log(res);
 
 
-// function biodata(firstName, lastName, age, city) {
-//     var completeData = "Hello my name is " + firstName + " " + lastName + ". my age is " + age + ". i live in " + city;
-//     return completeData
-// }
+function biodata(firstName, lastName, age, city) {
+    var completeData = "Hello my name is " + firstName + " " + lastName + ". my age is " + age + ". i live in " + city;
+    return completeData
+}
 
-// console.log(biodata('Muhammad', "faraz", 20, 'karachi'));
+console.log(biodata('Muhammad', "faraz", 20, 'karachi'));
 
 
 
