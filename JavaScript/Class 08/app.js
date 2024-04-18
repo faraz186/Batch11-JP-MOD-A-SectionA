@@ -33,17 +33,17 @@ anchor.style.color = "red";
 
 console.log(anchor);
 
-// function submit() {
-//   var username = document.getElementById("username");
-//   var password = document.getElementById("password");
+function submit() {
+  var username = document.getElementById("username");
+  var password = document.getElementById("password");
 
-//   if (username.value && password.value) {
-//     console.log(username.value);
-//     console.log(password.value);
-//   } else {
-//     alert("please fill input fields...");
-//   }
-// }
+  if (username.value && password.value) {
+    console.log(username.value);
+    console.log(password.value);
+  } else {
+    alert("please fill input fields...");
+  }
+}
 
 // function set() {
 //   var input = document.getElementById("field");
