@@ -2,15 +2,15 @@ function abc() {
   alert("onclick event call");
 }
 
-// function over(e) {
-// console.log(e);
-//   var image = document.getElementById("img");
-//   image.src =
-//     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxzMvVqWGqvRosk_WpMeXx7bIEUdeywb9LTAFb91d0rw&s";
+function over(e) {
+console.log(e);
+  var image = document.getElementById("img");
+  image.src =
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxzMvVqWGqvRosk_WpMeXx7bIEUdeywb9LTAFb91d0rw&s";
 
-//   image.style.transform = scale(2.5);
-//   console.log("over call");
-// }
+  image.style.transform = scale(2.5);
+  console.log("over call");
+}
 
 // function out(e) {
 // console.log(e);
