@@ -23,15 +23,15 @@ console.log(e);
   console.log("out call");
 }
 
-// console.log(document);
+console.log(document);
 
-// var anchor = document.getElementById("link");
+var anchor = document.getElementById("link");
 
-// anchor.href = "https://www.google.com";
+anchor.href = "https://www.google.com";
 
-// anchor.style.color = "red";
+anchor.style.color = "red";
 
-// console.log(anchor);
+console.log(anchor);
 
 // function submit() {
 //   var username = document.getElementById("username");
