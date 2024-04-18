@@ -1,6 +1,6 @@
-// function abc() {
-//   alert("onclick event call");
-// }
+function abc() {
+  alert("onclick event call");
+}
 
 // function over(e) {
 // console.log(e);
