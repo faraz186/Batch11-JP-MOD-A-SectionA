@@ -52,23 +52,23 @@ function set() {
 
 set();
 
-// function submit() {
-//   // var select = document.getElementById("dropdown");
-//   var radio = document.getElementsByName("gender");
+function submit() {
+  // var select = document.getElementById("dropdown");
+  var radio = document.getElementsByName("gender");
 
-//   for (var i = 0; i <= radio.length; i++) {
+  for (var i = 0; i <= radio.length; i++) {
 
-//     if (radio[i].checked) {
-//       console.log(radio[i].value);
-//     }
-//   }
-// }
+    if (radio[i].checked) {
+      console.log(radio[i].value);
+    }
+  }
+}
 
-// var para = document.getElementById("para");
+var para = document.getElementById("para");
 
-// para.innerText = "<h1>this is an example..</h1>";
+para.innerText = "<h1>this is an example..</h1>";
 
-// console.log(para);
+console.log(para);
 
 function expandPara() {
   var shortText = "Lorem ipsum dolor sit amet, consectetur adipisicing elit.";
