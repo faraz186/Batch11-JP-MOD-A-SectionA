@@ -12,16 +12,16 @@ console.log(e);
   console.log("over call");
 }
 
-// function out(e) {
-// console.log(e);
+function out(e) {
+console.log(e);
 
-//   var image = document.getElementById("img");
-//   image.src =
-//     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA-NgFp9NUXZ9sDLcn5z9T2AJBfyTODDMnubQOnPaIMw&s";
-//   image.style.transform = scale(1);
+  var image = document.getElementById("img");
+  image.src =
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA-NgFp9NUXZ9sDLcn5z9T2AJBfyTODDMnubQOnPaIMw&s";
+  image.style.transform = scale(1);
 
-//   console.log("out call");
-// }
+  console.log("out call");
+}
 
 // console.log(document);
 
