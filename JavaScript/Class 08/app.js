@@ -45,12 +45,12 @@ function submit() {
   }
 }
 
-// function set() {
-//   var input = document.getElementById("field");
-//   input.value = "faraz";
-// }
+function set() {
+  var input = document.getElementById("field");
+  input.value = "faraz";
+}
 
-// set();
+set();
 
 // function submit() {
 //   // var select = document.getElementById("dropdown");
