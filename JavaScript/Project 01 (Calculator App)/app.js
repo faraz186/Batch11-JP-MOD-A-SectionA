@@ -17,7 +17,7 @@ function deletechar() {
 function square() {
   var input = document.getElementById("inputField");
   input.value = input.value * input.value;
-}
+}  
 
 function equal() {
   var input = document.getElementById("inputField");
