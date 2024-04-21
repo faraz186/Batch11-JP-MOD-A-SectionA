@@ -9,7 +9,7 @@ function clrAll() {
   input.value = "";
 }
 
-function deletechar() {
+function deletechar() {  
   var input = document.getElementById("inputField");
   input.value = input.value.slice(0, -2);
 }
