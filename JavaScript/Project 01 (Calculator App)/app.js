@@ -1,5 +1,5 @@
 function getValue(e) {
-  var input = document.getElementById("inputField");
+  var input = document.getElementById("inputField");  
   input.value += e;
   //   console.log(e);
 }
