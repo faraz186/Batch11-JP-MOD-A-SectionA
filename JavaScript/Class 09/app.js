@@ -51,11 +51,11 @@ function timer() {
 
 setTimeout(timer, 5000);
 
-// interval = setInterval(timer, 500);
+interval = setInterval(timer, 500);
 
-// function stop() {
-//   clearInterval(interval);
-// }
+function stop() {
+  clearInterval(interval);
+}
 
 // setTimeout(() => {}, timeout);
 
