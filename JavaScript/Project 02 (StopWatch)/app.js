@@ -11,7 +11,7 @@ var interval;
 function timer() {
   msec++;
   msecHeading.innerHTML = msec;
-  if (msec >= 100) {
+  if (msec >= 100) {  
     sec++;  
     secHeading.innerHTML = sec;
     msec = 0;
