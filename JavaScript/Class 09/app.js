@@ -14,16 +14,16 @@ function out(e) {
     "https://i.natgeofe.com/n/10fae74b-e7f8-4c72-8250-1165232e3da6/dive1470.great_.fish_.web2__3x2.jpg";
 }
 
-// function changeImage(EleID, ImgSrc) {
-//   document.getElementById(EleID).src = ImgSrc;
-// }
+function changeImage(EleID, ImgSrc) {
+  document.getElementById(EleID).src = ImgSrc;
+}
 
-// var paras = document.getElementsByClassName("para");
+var paras = document.getElementsByClassName("para");
 
-// for (var i = 0; i <= paras.length - 1; i++) {
-//   console.log(paras[i]);
-// }
-// console.log(paras);
+for (var i = 0; i <= paras.length - 1; i++) {
+  console.log(paras[i]);
+}
+console.log(paras);
 
 // var paras = document.getElementsByTagName("p");
 
