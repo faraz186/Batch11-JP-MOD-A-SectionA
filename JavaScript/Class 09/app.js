@@ -25,13 +25,13 @@ for (var i = 0; i <= paras.length - 1; i++) {
 }
 console.log(paras);
 
-// var paras = document.getElementsByTagName("p");
+var paras = document.getElementsByTagName("p");
 
-// console.log(paras);
+console.log(paras);
 
-// var div = document.getElementById("main");
+var div = document.getElementById("main");
 
-// console.log(div);
+console.log(div);
 
 // var p = div.getElementsByTagName("p");
 
