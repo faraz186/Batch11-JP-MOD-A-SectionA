@@ -33,13 +33,13 @@ var div = document.getElementById("main");
 
 console.log(div);
 
-// var p = div.getElementsByTagName("p");
+var p = div.getElementsByTagName("p");
 
-// console.log(p);
+console.log(p);
 
-// var paras = document.querySelectorAll(".para");
+var paras = document.querySelectorAll(".para");
 
-// console.log(paras);
+console.log(paras);
 
 // setInterval
 
