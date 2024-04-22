@@ -23,7 +23,7 @@ function timer() {
     hour++;
     hourHeading.innerHTML = hour;  
     min = 0;
-  }
+  }  
 }
 
 function start() {
