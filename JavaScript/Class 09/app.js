@@ -43,13 +43,13 @@ console.log(paras);
 
 // setInterval
 
-// var interval;
+var interval;
 
-// function timer() {
-//   console.log("test...");
-// }
+function timer() {
+  console.log("test...");
+}
 
-// setTimeout(timer, 5000);
+setTimeout(timer, 5000);
 
 // interval = setInterval(timer, 500);
 
