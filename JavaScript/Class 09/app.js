@@ -9,10 +9,10 @@ function over(e) {
     "https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/2020-Chevrolet-Corvette-Stingray/0x0.jpg?format=jpg&crop=4560,2565,x790,y784,safe&width=960";
 }
 
-// function out(e) {
-//   e.src =
-//     "https://i.natgeofe.com/n/10fae74b-e7f8-4c72-8250-1165232e3da6/dive1470.great_.fish_.web2__3x2.jpg";
-// }
+function out(e) {
+  e.src =
+    "https://i.natgeofe.com/n/10fae74b-e7f8-4c72-8250-1165232e3da6/dive1470.great_.fish_.web2__3x2.jpg";
+}
 
 // function changeImage(EleID, ImgSrc) {
 //   document.getElementById(EleID).src = ImgSrc;
