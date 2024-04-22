@@ -21,7 +21,7 @@ function timer() {
     sec = 0;
   } else if (min >= 60) {
     hour++;
-    hourHeading.innerHTML = hour;
+    hourHeading.innerHTML = hour;  
     min = 0;
   }
 }
