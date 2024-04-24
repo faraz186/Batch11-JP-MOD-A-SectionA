@@ -4,9 +4,9 @@ var link = document.getElementById("link");
 
 console.log(main.attributes[0].value);
 
-// link.setAttribute("href", "https://www.google.com");
+link.setAttribute("href", "https://www.google.com");
 
-// link.href = "https://www.google.com";
+link.href = "https://www.google.com";
 
 var paraElement = document.createElement("p");
 
