@@ -37,4 +37,5 @@ divElement.setAttribute("id", "main");
 console.log(divElement);
 
 // paraElement.innerHTML = paraText;
-// console.log(paraText);
+
+console.log(paraText);
