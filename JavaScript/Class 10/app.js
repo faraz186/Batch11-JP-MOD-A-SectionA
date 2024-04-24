@@ -1,8 +1,8 @@
-// var heading = document.getElementById("heading");
+var heading = document.getElementById("heading");
 var main = document.getElementById("main");
-// var link = document.getElementById("link");
+var link = document.getElementById("link");
 
-// console.log(main.attributes[0].value);
+console.log(main.attributes[0].value);
 
 // link.setAttribute("href", "https://www.google.com");
 
