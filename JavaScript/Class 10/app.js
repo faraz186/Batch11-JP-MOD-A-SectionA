@@ -13,7 +13,7 @@ var paraElement = document.createElement("p");
 var paraText = document.createTextNode("hello world");
 
 paraElement.appendChild(paraText);
-
+  
 console.log(paraElement);
 
 var main = document.getElementById("main");
