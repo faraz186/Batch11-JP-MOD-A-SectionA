@@ -1,4 +1,4 @@
-var list = document.getElementById("list");  
+var list = document.getElementById("list");    
 
 function addTodo() {
   var input = document.getElementById("todoInput");
