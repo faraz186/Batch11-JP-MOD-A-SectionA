@@ -8,7 +8,7 @@ function addTodo() {
   var liElement = document.createElement("li");
 
   var liText = document.createTextNode(input.value);
-
+  
   liElement.appendChild(liText);
 
   list.appendChild(liElement);
