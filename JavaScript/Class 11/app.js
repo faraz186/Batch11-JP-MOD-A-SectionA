@@ -23,7 +23,7 @@ function addTodo() {
 
   var DeleteBtnELement = document.createElement("button");
   
-  var DeleteBtnText = document.createTextNode("Delete");
+  var DeleteBtnText = document.createTextNode("Delete");  
 
   DeleteBtnELement.appendChild(DeleteBtnText);
 
