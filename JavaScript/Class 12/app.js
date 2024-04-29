@@ -48,14 +48,14 @@ function deleteItem(e) {
   console.log(e.parentNode.remove());
 }
 
-// function EditItem(e) {
-//   var updateValue = prompt(
-//     "Enter updated value",
-//     e.parentNode.firstChild.nodeValue
-//   );
+function EditItem(e) {
+  var updateValue = prompt(
+    "Enter updated value",
+    e.parentNode.firstChild.nodeValue
+  );
 
-//   e.parentNode.firstChild.nodeValue = updateValue;
-// }
+  e.parentNode.firstChild.nodeValue = updateValue;
+}
 
 // var text = "How are you doing today?";
 
