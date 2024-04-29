@@ -13,9 +13,9 @@ function addTodo() {
 
   list.appendChild(liElement);
 
-  //   console.log(liElement);
+    console.log(liElement);
 
-//   var EditBtnELement = document.createElement("button");
+  var EditBtnELement = document.createElement("button");
 
 //   var EditBtnText = document.createTextNode("Edit");
 
