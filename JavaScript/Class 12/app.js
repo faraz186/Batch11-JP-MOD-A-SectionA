@@ -71,16 +71,16 @@ console.log(typeof arr);
 
 console.log(arr);
 
-// var Studentobj = {
-//   name: "Muhammad faraz",
-//   age: 23,
-//   email: "faraz@gmail.com",
-//   address: "karachi",
-// };
+var Studentobj = {
+  name: "Muhammad faraz",
+  age: 23,
+  email: "faraz@gmail.com",
+  address: "karachi",
+};
 
-// Studentobj.section = "A";
+Studentobj.section = "A";
 
-// console.log(Studentobj);
+console.log(Studentobj);
 
 //                         Simplify todo-App
 
