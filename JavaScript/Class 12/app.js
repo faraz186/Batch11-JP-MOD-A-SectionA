@@ -57,9 +57,9 @@ function EditItem(e) {
   e.parentNode.firstChild.nodeValue = updateValue;
 }
 
-// var text = "How are you doing today?";
+var text = "How are you doing today?";
 
-// var myArray = text.split("  ");
+var myArray = text.split("  ");
 
 // var combine = myArray.join(",");
 
