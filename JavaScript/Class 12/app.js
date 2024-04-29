@@ -61,15 +61,15 @@ var text = "How are you doing today?";
 
 var myArray = text.split("  ");
 
-// var combine = myArray.join(",");
+var combine = myArray.join(",");
 
-// console.log(combine);
+console.log(combine);
 
-// var arr = [1, "faraz", true];
+var arr = [1, "faraz", true];
 
-// console.log(typeof arr);
+console.log(typeof arr);
 
-// console.log(arr);
+console.log(arr);
 
 // var Studentobj = {
 //   name: "Muhammad faraz",
