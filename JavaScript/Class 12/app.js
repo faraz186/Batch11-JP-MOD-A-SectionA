@@ -165,7 +165,7 @@ console.dir(document);
 // Function Declaration
 
 function abc() {}
-
+  
 // ananoymous function
 
 var func = function () {
