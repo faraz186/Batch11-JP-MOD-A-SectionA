@@ -17,11 +17,11 @@ function addTodo() {
 
   var EditBtnELement = document.createElement("button");
 
-//   var EditBtnText = document.createTextNode("Edit");
+  var EditBtnText = document.createTextNode("Edit");
 
-//   EditBtnELement.appendChild(EditBtnText);
+  EditBtnELement.appendChild(EditBtnText);
 
-//   var DeleteBtnELement = document.createElement("button");
+  var DeleteBtnELement = document.createElement("button");
 
 //   var DeleteBtnText = document.createTextNode("Delete");
 
