@@ -44,9 +44,9 @@ function deleteAll() {
   list.innerHTML = "";
 }
 
-// function deleteItem(e) {
-//   console.log(e.parentNode.remove());
-// }
+function deleteItem(e) {
+  console.log(e.parentNode.remove());
+}
 
 // function EditItem(e) {
 //   var updateValue = prompt(
