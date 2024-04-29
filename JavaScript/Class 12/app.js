@@ -190,6 +190,6 @@ studentObj.courses = ["html", "css"];
 
 studentObj.courses.push("js");
 
-// studentObj.courses.unshift("react");
+// studentObj.courses.unshift("react"); 
 
 console.log(studentObj.courses[1]);
