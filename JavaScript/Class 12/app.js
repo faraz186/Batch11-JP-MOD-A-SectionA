@@ -23,15 +23,15 @@ function addTodo() {
 
   var DeleteBtnELement = document.createElement("button");
 
-//   var DeleteBtnText = document.createTextNode("Delete");
+  var DeleteBtnText = document.createTextNode("Delete");
 
-//   DeleteBtnELement.appendChild(DeleteBtnText);
+  DeleteBtnELement.appendChild(DeleteBtnText);
 
-//   liElement.appendChild(EditBtnELement);
+  liElement.appendChild(EditBtnELement);
 
-//   liElement.appendChild(DeleteBtnELement);
+  liElement.appendChild(DeleteBtnELement);
 
-//   EditBtnELement.setAttribute("class", "Editbtn");
+  EditBtnELement.setAttribute("class", "Editbtn");
 //   DeleteBtnELement.style.backgroundColor = "lightcoral";
 
 //   DeleteBtnELement.setAttribute("onclick", "deleteItem(this)");
