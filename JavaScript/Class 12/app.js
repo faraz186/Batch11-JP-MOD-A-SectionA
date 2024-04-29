@@ -1,19 +1,19 @@
-// var list = document.getElementById("list");
+var list = document.getElementById("list");
 
-// function addTodo() {
-//   var input = document.getElementById("todoInput");
+function addTodo() {
+  var input = document.getElementById("todoInput");
 
-//   //   console.log(input.value);
+  //   console.log(input.value);
 
-//   var liElement = document.createElement("li");
+  var liElement = document.createElement("li");
 
-//   var liText = document.createTextNode(input.value);
+  var liText = document.createTextNode(input.value);
 
-//   liElement.appendChild(liText);
+  liElement.appendChild(liText);
 
-//   list.appendChild(liElement);
+  list.appendChild(liElement);
 
-//   //   console.log(liElement);
+  //   console.log(liElement);
 
 //   var EditBtnELement = document.createElement("button");
 
