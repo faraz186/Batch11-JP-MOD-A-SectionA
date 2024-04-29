@@ -32,17 +32,17 @@ function addTodo() {
   liElement.appendChild(DeleteBtnELement);
 
   EditBtnELement.setAttribute("class", "Editbtn");
-//   DeleteBtnELement.style.backgroundColor = "lightcoral";
+  DeleteBtnELement.style.backgroundColor = "lightcoral";
 
-//   DeleteBtnELement.setAttribute("onclick", "deleteItem(this)");
+  DeleteBtnELement.setAttribute("onclick", "deleteItem(this)");
 
-//   EditBtnELement.setAttribute("onclick", "EditItem(this)");
-//   input.value = "";
-// }
+  EditBtnELement.setAttribute("onclick", "EditItem(this)");
+  input.value = "";
+}
 
-// function deleteAll() {
-//   list.innerHTML = "";
-// }
+function deleteAll() {
+  list.innerHTML = "";
+}
 
 // function deleteItem(e) {
 //   console.log(e.parentNode.remove());
