@@ -5,7 +5,7 @@ function addTodo() {
 
   //   console.log(input.value);
 
-  var liElement = document.createElement("li");
+  var liElement = document.createElement("li");  
 
   var liText = document.createTextNode(input.value);
 
