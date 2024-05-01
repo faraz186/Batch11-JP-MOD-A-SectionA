@@ -682,6 +682,22 @@ function getValue() {
 
     console.log(password.value);
   } else {
-    aler("enter remaining fields..");
+    alert("enter remaining fields..");
+  }
+}
+
+
+//          Try catch
+
+function getValue() {
+  var email = document.getElementById("email");
+  var password = document.getElementById("pass");
+
+  if (email.value.trim() && password.value.trim()) {
+    console.log(email.value);
+
+    console.log(password.value);
+  } else {
+    alert("enter remaining fields..");
   }
 }
