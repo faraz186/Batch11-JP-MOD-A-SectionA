@@ -655,7 +655,7 @@ var mobiles = {
       // Battery
       batteryCapacity: 20000, // mAh
       fastCharging: "85W Super Fast Charging",
-
+  
       // Operating System
       os: "Android 14",
 
