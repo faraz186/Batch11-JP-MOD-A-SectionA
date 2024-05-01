@@ -701,5 +701,8 @@ function getValue() {
   } else {
     alert("enter remaining fields..");
   }
+}
+  catch(error){
+    console.log(error)
   }
 }
