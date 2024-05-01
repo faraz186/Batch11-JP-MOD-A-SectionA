@@ -3,7 +3,7 @@ var studentobj1 = {
   email: "abc@gmail.com",
   city: "karachi",
   status: false,
-  getName: function () {
+  getName: function () {  
     return this.name + " " + this.email;
   },
 };
