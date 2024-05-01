@@ -11,7 +11,7 @@ var studentobj1 = {
 //      Constructor Function
 
 function Student(name, email, city, status) {
-  (this.Stdname = name),
+  (this.Stdname = name),  
     (this.Stdemail = email),
     (this.Stdcity = city),
     (this.Stdstatus = status);
