@@ -677,7 +677,7 @@ function getValue() {
   var email = document.getElementById("email");
   var password = document.getElementById("pass");
 
-  if (email.value && password.value) {
+  if (email.value.trim() && password.value.trim()) {
     console.log(email.value);
 
     console.log(password.value);
