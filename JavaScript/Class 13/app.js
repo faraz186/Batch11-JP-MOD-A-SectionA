@@ -15,7 +15,7 @@ var studentobj2 = {
   status: false,
   getName: function () {
     return this.name + " " + this.email;
-  },
+  },  
 };
 
 function Student(name, email, city, status) {
