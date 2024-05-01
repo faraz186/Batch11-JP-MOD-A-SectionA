@@ -690,6 +690,7 @@ function getValue() {
 //          Try catch
 
 function getValue() {
+  try{
   var email = document.getElementById("email");
   var password = document.getElementById("pass");
 
@@ -699,5 +700,6 @@ function getValue() {
     console.log(password.value);
   } else {
     alert("enter remaining fields..");
+  }
   }
 }
