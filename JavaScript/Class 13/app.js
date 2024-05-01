@@ -8,16 +8,6 @@ var studentobj1 = {
   },
 };
 
-var studentobj2 = {
-  name: "abc",
-  email: "abc@gmail.com",
-  city: "karachi",
-  status: false,
-  getName: function () {
-    return this.name + " " + this.email;
-  },  
-};
-
 function Student(name, email, city, status) {
   (this.Stdname = name),
     (this.Stdemail = email),
