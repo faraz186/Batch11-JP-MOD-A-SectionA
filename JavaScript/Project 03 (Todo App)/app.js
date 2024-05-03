@@ -19,7 +19,7 @@ function addtodo() {
     delbtn.appendChild(delbtnText);
   
     delbtn.setAttribute("onclick", "deleteItem(this)");
-  
+    
     liElement.appendChild(delbtn);
   
     // ***********************Edit button**********************************
