@@ -48,7 +48,7 @@ function changeIcon() {
   var passwordInput = document.getElementById("password");
   var img = document.getElementById("img");
 
-  if (passwordInput.type === "password") {
+  if (passwordInput.type === "password") {  
     passwordInput.type = "text";
     img.src = "./images/invisible.png";
   } else {
