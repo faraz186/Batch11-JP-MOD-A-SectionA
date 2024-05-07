@@ -10,39 +10,39 @@ var obj = {
   city: "karachi",
 };
 
-// localStorage.setItem("obj", JSON.stringify(obj));
+localStorage.setItem("obj", JSON.stringify(obj));
 
-// var getData = localStorage.getItem("obj");
+var getData = localStorage.getItem("obj");
 
-// console.log(JSON.parse(getData));
+console.log(JSON.parse(getData));
 
-// localStorage.removeItem("username");
+localStorage.removeItem("username");
 
-// localStorage.clear();
+localStorage.clear();
 
-// function clicked() {
-//   var input = document.getElementById("name");
-//   var getDataFromLocalStorage = localStorage.getItem("obj");
+function clicked() {
+  var input = document.getElementById("name");
+  var getDataFromLocalStorage = localStorage.getItem("obj");
 
-//   var arr = JSON.parse(getDataFromLocalStorage);
+  var arr = JSON.parse(getDataFromLocalStorage);
 
-//   if (!arr) {
-//     arr = [];
-//   }
-//   //   var arr = [];
+  if (!arr) {
+    arr = [];
+  }
+  //   var arr = [];
 
-//   var obj = {
-//     name: input.value,
-//   };
+  var obj = {
+    name: input.value,
+  };
 
-//   arr.push(obj);
+  arr.push(obj);
 
-//   localStorage.setItem("obj", JSON.stringify(arr));
+  localStorage.setItem("obj", JSON.stringify(arr));
 
-//   console.log(obj);
+  console.log(obj);
 
-//   input.value = "";
-// }
+  input.value = "";
+}
 
 function changeIcon() {
   var passwordInput = document.getElementById("password");
