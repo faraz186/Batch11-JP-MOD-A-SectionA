@@ -44,6 +44,8 @@ function clicked() {
   input.value = "";
 }
 
+// Form Validation using Regex..
+
 function changeIcon() {
   var passwordInput = document.getElementById("password");
   var img = document.getElementById("img");
