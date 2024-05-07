@@ -1,14 +1,14 @@
 // Local Storage
 
-// var name = "faraz";
+var name = "faraz";
 
-// var arr = ["farooq", 500, true];
+var arr = ["farooq", 500, true];
 
-// var obj = {
-//   name: "abc",
-//   age: 20,
-//   city: "karachi",
-// };
+var obj = {
+  name: "abc",
+  age: 20,
+  city: "karachi",
+};
 
 // localStorage.setItem("obj", JSON.stringify(obj));
 
