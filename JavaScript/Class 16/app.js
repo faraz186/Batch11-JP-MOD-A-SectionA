@@ -1,7 +1,3 @@
-// TODO: Add SDKs for Firebase products that you want to use
-// https://firebase.google.com/docs/web/setup#available-libraries
-
-// Your web app's Firebase configuration
 var firebaseConfig = {     
   apiKey: "***********************************",
   authDomain: "***************************",
@@ -19,55 +15,8 @@ const auth = firebase.auth();
 
 console.log(auth);
 
-// Local Storage
-
-// var name = "faraz";
-
-// var arr = ["farooq", 500, true];
-
-// var obj = {
-//   name: "abc",
-//   age: 20,
-//   city: "karachi",
-// };
-
-// localStorage.setItem("obj", JSON.stringify(obj));
-
-// var getData = localStorage.getItem("obj");
-
-// console.log(JSON.parse(getData));
-
-// localStorage.removeItem("username");
-
-// localStorage.clear();
-
-// function clicked() {
-//   var input = document.getElementById("name");
-//   var getDataFromLocalStorage = localStorage.getItem("obj");
-
-//   var arr = JSON.parse(getDataFromLocalStorage);
-
-//   if (!arr) {
-//     arr = [];
-//   }
-//   //   var arr = [];
-
-//   var obj = {
-//     name: input.value,
-//   };
-
-//   arr.push(obj);
-
-//   localStorage.setItem("obj", JSON.stringify(arr));
-
-//   console.log(obj);
-
-//   input.value = "";
-// }
-
-// Form Validation using Regex..
-
-function changeIcon() {
+function changeIcon() 
+{
   var passwordInput = document.getElementById("password");
   var img = document.getElementById("img");
 
