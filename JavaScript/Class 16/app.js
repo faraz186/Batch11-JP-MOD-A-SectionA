@@ -17,7 +17,7 @@ var app = firebase.initializeApp(firebaseConfig);
 // Initialize Firebase Authentication and get a reference to the service
 const auth = firebase.auth();
 
-// console.log(auth);
+console.log(auth);
 
 // Local Storage
 
