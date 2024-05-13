@@ -32,7 +32,7 @@ function changeIcon() {
   }
 }
 
-function validation() {
+function signUp() {
   var username = document.getElementById("username").value;
   var email = document.getElementById("email").value;
   var password = document.getElementById("password").value;
@@ -225,3 +225,4 @@ function LoginWithGithub() {
       console.log(errorMessage);
     });
 }
+  
