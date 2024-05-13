@@ -16,7 +16,7 @@ var app = firebase.initializeApp(firebaseConfig);
 
 // Initialize Firebase Authentication and get a reference to the service
 const auth = firebase.auth();
-
+  
 // Form Validation using Regex..
 
 function changeIcon() {
