@@ -17,54 +17,6 @@ var app = firebase.initializeApp(firebaseConfig);
 // Initialize Firebase Authentication and get a reference to the service
 const auth = firebase.auth();
 
-// console.log(auth);
-
-// Local Storage
-
-// var name = "faraz";
-
-// var arr = ["farooq", 500, true];
-
-// var obj = {
-//   name: "abc",
-//   age: 20,
-//   city: "karachi",
-// };
-
-// localStorage.setItem("obj", JSON.stringify(obj));
-
-// var getData = localStorage.getItem("obj");
-
-// console.log(JSON.parse(getData));
-
-// localStorage.removeItem("username");
-
-// localStorage.clear();
-
-// function clicked() {
-//   var input = document.getElementById("name");
-//   var getDataFromLocalStorage = localStorage.getItem("obj");
-
-//   var arr = JSON.parse(getDataFromLocalStorage);
-
-//   if (!arr) {
-//     arr = [];
-//   }
-//   //   var arr = [];
-
-//   var obj = {
-//     name: input.value,
-//   };
-
-//   arr.push(obj);
-
-//   localStorage.setItem("obj", JSON.stringify(arr));
-
-//   console.log(obj);
-
-//   input.value = "";
-// }
-
 // Form Validation using Regex..
 
 function changeIcon() {
