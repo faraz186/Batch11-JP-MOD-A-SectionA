@@ -120,23 +120,23 @@ function login() {
     });
 }
 
-// firebase.auth().onAuthStateChanged((user) => {
-//   if (user) {
-//     if (location.pathname !== "/profile.html") {
-//       window.location = "profile.html";
-//     }
-//     console.log(user);
-//   } else {
-//     if (
-//       location.pathname !== "/login.html" &&
-//       location.pathname !== "/signup.html"
-//     ) {
-//       window.location = "login.html";
-//     }
+firebase.auth().onAuthStateChanged((user) => {
+  if (user) {
+    if (location.pathname !== "/profile.html") {
+      window.location = "profile.html";
+    }
+    console.log(user);
+  } else {
+    if (
+      location.pathname !== "/login.html" &&
+      location.pathname !== "/signup.html"
+    ) {
+      window.location = "login.html";
+    }
 
-//     console.log("not login");
-//   }
-// });
+    console.log("not login");
+  }
+});
 
 function logout() {
   firebase
