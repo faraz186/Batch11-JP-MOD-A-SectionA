@@ -221,4 +221,3 @@ function LoginWithGithub() {
       console.log(errorMessage);
     });
 }
-  
