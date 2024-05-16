@@ -50,7 +50,7 @@ function getVal() {
 
 function getDataFromDatabase() {
   firebase
-    .database()
+    .database()  
     .ref("users")
     .on("child_added", function (data) {
       console.log(data.val());
