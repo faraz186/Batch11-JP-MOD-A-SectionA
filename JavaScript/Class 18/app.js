@@ -29,7 +29,7 @@ function getVal() {
 
   var obj = {
     name: name.value,
-    rollno: rollno.value,
+    rollno: rollno.value,  
   };
 
   //   console.log(obj);
