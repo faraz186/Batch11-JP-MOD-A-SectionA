@@ -9,7 +9,7 @@ var firebaseConfig = {
 };
 
 // Initialize Firebase
-var app = firebase.initializeApp(firebaseConfig);
+var app = firebase.initializeApp(firebaseConfig);  
 
 var db = firebase.database();
 
