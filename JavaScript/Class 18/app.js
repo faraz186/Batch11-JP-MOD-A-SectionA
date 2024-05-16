@@ -77,7 +77,7 @@ function updateUserFromDatabase() {
 }
 
 updateUserFromDatabase();
-
+ 
 //                  Google Auth
 
 // function LoginWithGoogle() {
